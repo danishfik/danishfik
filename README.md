@@ -9,16 +9,5 @@
 
 ---
 
-## 📊 Code::Stats
-
-<p align="center">
-  <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://codestats-readme.wegfan.cn/language-percentage/danishfik?max_languages=8&width=700" />
-</p>
-
-<p align="center">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/danishfik?bg_color=000000" />
-</p>
+<!-- CODESTATS:START -->
+<!-- CODESTATS:END -->
