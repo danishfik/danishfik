@@ -11,9 +11,8 @@
 
 ## 📊 Code::Stats
 
-[![Code::Stats](https://codestats.net/api/users/danishfik/badges/big)](https://codestats.net/users/danishfik)
+[![danishfik's Code::Stats stats](https://codestats-readme.avior.me/api?username=danishfik&show_icons=true&theme=tokyonight)](https://codestats.net/users/danishfik)
 
-![Code::Stats XP](https://img.shields.io/badge/Code::Stats-Level%2032%20%E2%80%A2%201%2C680%2C290%20XP-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7wn5SFPC90ZXh0Pjwvc3ZnPg==)
+[![Top Languages](https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&theme=tokyonight)](https://codestats.net/users/danishfik)
 
-
-➡️ [View full profile on Code::Stats](https://codestats.net/users/danishfik)
+[![History](https://codestats-readme.avior.me/api/history/?username=danishfik&theme=tokyonight)](https://codestats.net/users/danishfik)
