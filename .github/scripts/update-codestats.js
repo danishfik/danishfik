@@ -35,6 +35,7 @@ function progressBar(xp, total, length = 10) {
     .sort((a, b) => b.xp - a.xp)
     .slice(0, 10);
 
+  if (ranked.length === 0) { console.log('No language data found.'); process.exit(0); }
   const maxXp = ranked[0].xp;
 
   const rows = ranked.map((lang, i) => {
