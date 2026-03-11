@@ -54,7 +54,7 @@ function progressBar(xp, total, length = 10) {
   <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
 </p>
 
-> 🏆 Level **${userLevel}** · Total XP: **${totalXp}** · Updated:**${currentDatetime}**
+> 🏆 Level **${userLevel}** · Total XP: **${totalXp}** · Updated: **${currentDatetime}**
 
 | Rank | Language | Level | Progress | XP |
 |------|----------|-------|----------|----|
