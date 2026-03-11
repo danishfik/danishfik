@@ -33,7 +33,7 @@ function progressBar(xp, total, length = 10) {
   const ranked = Object.entries(langs)
     .map(([name, info]) => ({ name, xp: info.xps, level: xpToLevel(info.xps) }))
     .sort((a, b) => b.xp - a.xp)
-    .slice(0, 10);
+    .slice(0, 5);
 
   if (ranked.length === 0) { console.log('No language data found.'); process.exit(0); }
   const maxXp = ranked[0].xp;
@@ -47,13 +47,14 @@ function progressBar(xp, total, length = 10) {
 
   const totalXp = data.total_xp.toLocaleString();
   const userLevel = xpToLevel(data.total_xp);
+  const currentDatetime = new Date().toUTCString();
 
   const section = `<!-- CODESTATS:START -->
 <p align="center">
   <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
 </p>
 
-> 🏆 Level **${userLevel}** · Total XP: **${totalXp}** · Updated automatically every 6h
+> 🏆 Level **${userLevel}** · Total XP: **${totalXp}** · Updated:**${currentDatetime}**
 
 | Rank | Language | Level | Progress | XP |
 |------|----------|-------|----------|----|
