@@ -49,9 +49,9 @@ function progressBar(xp, total, length = 10) {
   const userLevel = xpToLevel(data.total_xp);
 
   const section = `<!-- CODESTATS:START -->
-    <p align="center">
-    <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
-    </p>
+<p align="center">
+  <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
+</p>
 
 > 🏆 Level **${userLevel}** · Total XP: **${totalXp}** · Updated automatically every 6h
 
