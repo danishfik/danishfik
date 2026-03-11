@@ -11,8 +11,14 @@
 
 ## 📊 Code::Stats
 
-[![danishfik's Code::Stats stats](https://codestats-readme.avior.me/api?username=danishfik&show_icons=true&theme=tokyonight)](https://codestats.net/users/danishfik)
+<p align="center">
+  <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
+</p>
 
-[![Top Languages](https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&theme=tokyonight)](https://codestats.net/users/danishfik)
+<p align="center">
+  <img src="https://codestats-readme.wegfan.cn/language-percentage/danishfik?max_languages=8&width=700" />
+</p>
 
-[![History](https://codestats-readme.avior.me/api/history/?username=danishfik&theme=tokyonight)](https://codestats.net/users/danishfik)
+<p align="center">
+  <img src="https://codestats-readme.wegfan.cn/history-graph/danishfik?history_days=14&max_languages=6" />
+</p>
