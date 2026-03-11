@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/danishfik?history_days=14&max_languages=6" />
+  <img src="https://codestats-readme.wegfan.cn/history-graph/danishfik?bg_color=000000" />
 </p>
