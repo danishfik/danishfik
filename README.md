@@ -5,13 +5,13 @@
   <img src="https://codestats-readme.avior.me/api/top-langs/?username=danishfik&layout=compact&langs_count=10&theme=dracula" />
 </p>
 
-> 🏆 Level **33** · Total XP: **1,763,381** · Updated: **Mon, 07 Sep 2026 02:01:12 GMT**
+> 🏆 Level **33** · Total XP: **1,763,455** · Updated: **Mon, 07 Sep 2026 11:06:03 GMT**
 
 | Rank | Language | Level | Progress | XP |
 |------|----------|-------|----------|----|
-| 🥇 | `Vue` | Lvl **24** | `████████████` | 973,688 XP |
+| 🥇 | `Vue` | Lvl **24** | `████████████` | 973,703 XP |
 | 🥈 | `JavaScript` | Lvl **11** | `███░░░░░░░░░` | 218,953 XP |
-| 🥉 | `TypeScript` | Lvl **11** | `███░░░░░░░░░` | 217,707 XP |
+| 🥉 | `TypeScript` | Lvl **11** | `███░░░░░░░░░` | 217,723 XP |
 | **#4** | `Python` | Lvl **7** | `█░░░░░░░░░░░` | 98,354 XP |
 | **#5** | `PHP` | Lvl **6** | `█░░░░░░░░░░░` | 74,851 XP |
 
